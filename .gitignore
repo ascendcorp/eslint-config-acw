@@ -1,0 +1,13 @@
+*
+
+!.editorconfig
+!.gitignore
+!.prettierrc.js
+!.versionrc
+!.vscode
+!.vscode/*
+!CHANGELOG.md
+!Makefile
+!README.md
+!index.js
+!package.json
