@@ -75,5 +75,4 @@ module.exports = {
 		"prefer-template": "error",
 		"prettier/prettier": "error",
 	},
-	env: { browser: true, node: true, jest: true },
 }

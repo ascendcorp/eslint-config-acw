@@ -1,0 +1,25 @@
+{
+	"name": "eslint-config-acw-base",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@typescript-eslint/eslint-plugin": "*",
+		"@typescript-eslint/parser": "*",
+		"eslint": "*",
+		"eslint-config-prettier": "*",
+		"eslint-import-resolver-typescript": "*",
+		"eslint-plugin-import": "*",
+		"eslint-plugin-prettier": "*",
+		"prettier": "*"
+	},
+	"peerDependencies": {
+		"typescript": "*"
+	}
+}

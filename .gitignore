@@ -9,5 +9,11 @@
 !CHANGELOG.md
 !Makefile
 !README.md
+!.changeset
+!.changeset/*
 !index.js
 !package.json
+!packages
+!packages/*
+!pnpm-lock.yaml
+!pnpm-workspace.yaml

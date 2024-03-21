@@ -1,0 +1,26 @@
+{
+	"name": "eslint-config-acw-web",
+	"version": "0.0.16",
+	"description": "",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ascendcorp/eslint-config-acw-web.git"
+	},
+	"keywords": [
+		"eslint",
+		"eslintconfig"
+	],
+	"author": "ascendcorp/frontend",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ascendcorp/eslint-config-acw-web/issues"
+	},
+	"homepage": "https://github.com/ascendcorp/eslint-config-acw-web#readme",
+	"dependencies": {
+		"eslint-config-acw-base": "workspace:*",
+		"eslint-plugin-jsx-a11y": "*",
+		"eslint-plugin-react": "*",
+		"eslint-plugin-react-hooks": "*"
+	}
+}
