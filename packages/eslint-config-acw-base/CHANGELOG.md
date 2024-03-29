@@ -1,5 +1,12 @@
 # eslint-config-acw-base
 
+## 0.0.4
+
+### Patch Changes
+
+- chore: rename prettier-config to acw-prettier-config
+- chore(changeset): commit=true
+
 ## 0.0.3
 
 ### Patch Changes
