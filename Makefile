@@ -1,3 +1,4 @@
 release:
-	npx standard-version
-	git push --follow-tags origin main && npm publish
+	npx changeset
+	npx changeset version
+	npx changeset publish
