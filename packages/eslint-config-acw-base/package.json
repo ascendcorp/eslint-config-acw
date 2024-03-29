@@ -1,14 +1,25 @@
 {
 	"name": "eslint-config-acw-base",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "",
 	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ascendcorp/eslint-config-acw.git"
+	},
+	"keywords": [
+		"eslint",
+		"eslintconfig"
+	],
+	"author": "ascendcorp/frontend",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ascendcorp/eslint-config-acw/issues"
+	},
+	"homepage": "https://github.com/ascendcorp/eslint-config-acw#readme",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
 	"dependencies": {
 		"@typescript-eslint/eslint-plugin": "*",
 		"@typescript-eslint/parser": "*",

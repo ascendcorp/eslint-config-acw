@@ -1,6 +1,6 @@
 {
-	"name": "prettier-config",
-	"version": "0.0.1",
+	"name": "@acw/prettier-config",
+	"version": "0.0.2",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
