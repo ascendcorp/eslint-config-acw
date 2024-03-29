@@ -1,5 +1,13 @@
 # eslint-config-acw-web
 
+## 0.0.18
+
+### Patch Changes
+
+- chore: rename prettier-config to acw-prettier-config
+- Updated dependencies
+  - eslint-config-acw-base@0.0.3
+
 ## 0.0.17
 
 ### Patch Changes
