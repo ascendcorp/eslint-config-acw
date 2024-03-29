@@ -1,5 +1,12 @@
 # eslint-config-acw-web
 
+## 0.0.20
+
+### Patch Changes
+
+- Updated dependencies
+  - eslint-config-acw-base@0.0.20
+
 ## 0.0.19
 
 ### Patch Changes
